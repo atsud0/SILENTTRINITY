@@ -12,3 +12,4 @@
 - Integrate Donut https://github.com/TheWover/donut cause its awesome.
 - Figure out a sane way to upload/download stuff
 - Switch over to AES-GCM and get rid of HMAC for transport encryption.
+- 
